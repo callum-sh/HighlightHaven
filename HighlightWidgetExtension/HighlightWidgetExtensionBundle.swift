@@ -12,7 +12,5 @@ import SwiftUI
 struct HighlightWidgetExtensionBundle: WidgetBundle {
     var body: some Widget {
         HighlightWidgetExtension()
-        HighlightWidgetExtensionControl()
-        HighlightWidgetExtensionLiveActivity()
     }
 }
